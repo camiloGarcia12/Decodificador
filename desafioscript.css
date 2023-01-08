@@ -117,10 +117,17 @@
     width: 940px;
 }
 
-.texto a {
+.linkedin {
     position: absolute;
     bottom: -40px;
     left: 1000px;
+    height: 67px;
+    width: 940px;
+}
+.github {
+    position: absolute;
+    bottom: -40px;
+    left: 1100px;
     height: 67px;
     width: 940px;
 }
