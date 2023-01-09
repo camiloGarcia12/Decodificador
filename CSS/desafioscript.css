@@ -8,11 +8,13 @@
     left: 0;
     resize: none;
     background-color: #E5E5E5;
-    background-image: url(Logo-1.png);
+    background-image: url(../imagenes/Logo-1.png);
     background-repeat: no-repeat;
     background-position: 0% 5%;
     background-size: auto;
 }
+
+
 .advertencia {
     position: absolute;
     width: 229px;
@@ -98,7 +100,7 @@
     border-radius: 32px;
     border-radius: 32px;
     background-color: white;
-    background-image: url(Muñeco.png);
+    background-image: url(../imagenes/Muñeco.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
@@ -109,6 +111,7 @@
     line-height: 150%;
     border-color: #E5E5E5;
 }
+
 .copyright {
     position: absolute;
     bottom: -40px;
